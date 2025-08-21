@@ -1,0 +1,66 @@
+commit e7be93c599e0a5530b6485f6672fd69fd872b766
+Merge: e5e7998 e736448
+Author: seduard008 <eduardost005@gmail.com>
+Date:   Thu Aug 21 01:55:02 2025 -0300
+
+    Merge branch 'main' of https://github.com/seduard008/avaliacao-git
+
+commit e5e79988d74dd8b1486523b4f9b97f583c6f512f
+Author: seduard008 <eduardost005@gmail.com>
+Date:   Thu Aug 21 01:54:59 2025 -0300
+
+    título alterado para nome completo
+
+commit 254d5cfee8e8e6ffb83e274e706f86696fd03962
+Author: seduard008 <eduardost005@gmail.com>
+Date:   Thu Aug 21 01:51:30 2025 -0300
+
+    título alterado para nome completo
+
+commit e7364483e8e819d0e0b1a67404a75883b63902f6
+Merge: 81150e6 1c36cca
+Author: seduard008 <eduardost005@gmail.com>
+Date:   Thu Aug 21 04:47:41 2025 +0000
+
+    Merge pull request #2 from seduard008/alteracao-02
+    
+    adicionada estrutura de repetição e comentário
+
+commit 81150e631f747e52f6a48fd96034af5ba36678b4
+Merge: 5f46120 e195fad
+Author: seduard008 <eduardost005@gmail.com>
+Date:   Thu Aug 21 04:47:27 2025 +0000
+
+    Merge pull request #1 from seduard008/alteracao-01
+    
+    alterada a cor do container principal
+
+commit 1c36cca3f408187ddbc1e53a8b10b05c5401cf1c
+Author: seduard008 <eduardost005@gmail.com>
+Date:   Thu Aug 21 01:45:11 2025 -0300
+
+    adicionada estrutura de repetição e comentário
+
+commit e195fadff7e78041148d20e369b16494aeb8cd1c
+Author: seduard008 <eduardost005@gmail.com>
+Date:   Wed Aug 20 23:47:30 2025 -0300
+
+    alterada a cor do container principal
+
+commit 5f461204ec8834cda058073be0d3b4d15f160667
+Author: seduard008 <eduardost005@gmail.com>
+Date:   Wed Aug 20 23:10:57 2025 -0300
+
+    código adicionado aos arquivos em branco
+
+commit 10f3d53cddc414ee8d69985a50cc247ecaa8820e
+Author: seduard008 <eduardost005@gmail.com>
+Date:   Wed Aug 20 22:55:08 2025 -0300
+
+    arquivos em branco adicionados ao repositório
+
+commit a4e9693c1b48e058cc11e2284543afee2c30d527
+Author: seduard008 <eduardost005@gmail.com>
+Date:   Thu Aug 21 01:29:44 2025 +0000
+
+    Initial commit
