@@ -1,3 +1,4 @@
+// Referência ao botão que aciona o movimento do elemento
 const moveBtn = document.getElementById('moveBtn');
 
 // Adiciona um "ouvinte de eventos" que dispara uma função quando o mouse passa por cima
@@ -30,6 +31,7 @@ let messageCount = 0; // Um contador para numerar as mensagens
 
 // Adiciona um "ouvinte de eventos" que dispara uma função ao ser clicado
 addTextBtn.addEventListener('click', function() {
+    for (let i = 0; i < 5; i++) { // repete 5 vezes
     messageCount++; // Incrementa o contador
 
     // Cria um novo elemento de parágrafo (<p>)
@@ -43,4 +45,5 @@ addTextBtn.addEventListener('click', function() {
 
     // Adiciona o novo parágrafo como um "filho" do contêiner de texto
     textContainer.appendChild(newParagraph);
+    }
 });
